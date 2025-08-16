@@ -15,16 +15,17 @@ title: "Inicio"
     <p style="margin-top:6px; font-size:18px;">Data Analyst Junior</p>
 
     <!-- BOTONES DE COLORES -->
-    <div style="margin-top:12px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
-      <a href="https://www.linkedin.com/in/dantedupeyron/" target="_blank" 
-         style="padding:10px 16px;background:#0A66C2;color:white;border-radius:8px;text-decoration:none;">LinkedIn</a>
-      <a href="https://github.com/DANTEDUPEYRON21" target="_blank" 
-         style="padding:10px 16px;background:#333;color:white;border-radius:8px;text-decoration:none;">GitHub</a>
-      <a href="/assets/cv/Dante_Dupeyron_CV.pdf" target="_blank" 
-         style="padding:10px 16px;background:#28a745;color:white;border-radius:8px;text-decoration:none;">CV (PDF)</a>
-      <a href="mailto:dadupun79@gmail.com" 
-         style="padding:10px 16px;background:#EA4335;color:white;border-radius:8px;text-decoration:none;">Email</a>
-    </div>
+<div style="margin-top:12px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/dantedupeyron/" target="_blank" 
+     style="padding:10px 16px;background:#0A66C2;color:white;border-radius:8px;text-decoration:none;">LinkedIn</a>
+  <a href="https://github.com/DANTEDUPEYRON21" target="_blank" 
+     style="padding:10px 16px;background:#333;color:white;border-radius:8px;text-decoration:none;">GitHub</a>
+  <a href="/CV-DANTE.pdf" target="_blank" 
+     style="padding:10px 16px;background:#28a745;color:white;border-radius:8px;text-decoration:none;">CV (PDF)</a>
+  <a href="mailto:dadupun79@gmail.com" 
+     style="padding:10px 16px;background:#EA4335;color:white;border-radius:8px;text-decoration:none;">Email</a>
+</div>
+
   </div>
 
   <!-- Columna Derecha -->
