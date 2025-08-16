@@ -1,21 +1,24 @@
 title: "Data Analyst"
 theme: jekyll-theme-minimal
 
-# Foto en el header (puedes cambiar a una imagen local si luego subes /assets/img/avatar.jpg)
-logo: "https://avatars.githubusercontent.com/DANTEDUPEYRON21?size=220"
-
-# Texto del header (acepta HTML). Aquí ponemos tu nombre, tagline y botones.
+# Header izquierdo (HTML permitido)
 description: |-
-  <p style="margin:8px 0 2px 0;"><strong>Dante Dupeyron</strong> · Data Analyst Junior</p>
-  <p style="margin:0 0 10px 0; opacity:.85;">Transformo datos en decisiones claras · Python · SQL · Tableau</p>
-  <div style="display:flex; gap:8px; flex-wrap:wrap;">
-    <a href="https://www.linkedin.com/in/dantedupeyron/" target="_blank"
-       style="padding:8px 12px;background:#0A66C2;color:#fff;border-radius:8px;text-decoration:none;">LinkedIn</a>
-    <a href="https://github.com/DANTEDUPEYRON21" target="_blank"
-       style="padding:8px 12px;background:#333;color:#fff;border-radius:8px;text-decoration:none;">GitHub</a>
-    <a href="/CV-DANTE.pdf" target="_blank"
-       style="padding:8px 12px;background:#28a745;color:#fff;border-radius:8px;text-decoration:none;">CV (PDF)</a>
-    <a href="mailto:dadupun79@gmail.com"
-       style="padding:8px 12px;background:#EA4335;color:#fff;border-radius:8px;text-decoration:none;">Email</a>
+  <div style="margin-top:6px;">
+    <img src="https://avatars.githubusercontent.com/DANTEDUPEYRON21?size=400"
+         alt="Dante Dupeyron"
+         style="width:180px;height:180px;border-radius:50%;object-fit:cover;"/>
+    <p style="margin:10px 0 2px 0;"><strong>Dante Dupeyron</strong> · Data Analyst Junior</p>
+    <p style="margin:0 0 10px 0; opacity:.85;">Transformo datos en decisiones claras · Python · SQL · Tableau</p>
+    <div style="display:flex; gap:8px; flex-wrap:wrap;">
+      <a href="https://www.linkedin.com/in/dantedupeyron/" target="_blank"
+         style="padding:8px 12px;background:#0A66C2;color:#fff;border-radius:8px;text-decoration:none;">LinkedIn</a>
+      <a href="https://github.com/DANTEDUPEYRON21" target="_blank"
+         style="padding:8px 12px;background:#333;color:#fff;border-radius:8px;text-decoration:none;">GitHub</a>
+      <a href="/CV-DANTE.pdf" target="_blank"
+         style="padding:8px 12px;background:#28a745;color:#fff;border-radius:8px;text-decoration:none;">CV (PDF)</a>
+      <a href="mailto:dadupun79@gmail.com"
+         style="padding:8px 12px;background:#EA4335;color:#fff;border-radius:8px;text-decoration:none;">Email</a>
+    </div>
   </div>
+
 
