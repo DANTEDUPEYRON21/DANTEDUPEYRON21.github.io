@@ -1,10 +1,11 @@
 title: "Data Analyst"
 theme: jekyll-theme-minimal
+github_username: false  # oculta "View My GitHub Profile"
 
 # Header izquierdo (HTML permitido)
 description: |-
   <div style="margin-top:6px;">
-    <img src="https://avatars.githubusercontent.com/DANTEDUPEYRON21?size=400"
+    <img src="https://avatars.githubusercontent.com/DANTEDUPEYRON21?size=512"
          alt="Dante Dupeyron"
          style="width:180px;height:180px;border-radius:50%;object-fit:cover;"/>
     <p style="margin:10px 0 2px 0;"><strong>Dante Dupeyron</strong> · Data Analyst Junior</p>
@@ -20,5 +21,6 @@ description: |-
          style="padding:8px 12px;background:#EA4335;color:#fff;border-radius:8px;text-decoration:none;">Email</a>
     </div>
   </div>
+
 
 
