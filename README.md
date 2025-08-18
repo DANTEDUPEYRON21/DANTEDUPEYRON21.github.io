@@ -16,7 +16,7 @@
   }
 </style>
 
-## Mi historia
+## Sobre mí
 Desde niño me fascinaban las computadoras. Pasé horas frente a mi primera PC de escritorio, explorando y entendiendo cómo funcionaban. Con el tiempo mi vida tomó otro rumbo: trabajé 8 años en cruceros, liderando equipos en entornos de alta presión, atendiendo clientes de todo el mundo y resolviendo problemas las 24 horas del día.
 
 Esa experiencia me dio algo invaluable: disciplina, resiliencia, la capacidad de entender a las personas y un inglés profesional, desarrollado hablando todos los días con personas nativas en contextos reales y exigentes.
@@ -29,7 +29,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 
 ---
 
-## 👨‍💻 Sobre mí
+## Fortalezas
 - **Analista de Datos Junior** con foco en negocio.
 - Fuerte en **limpieza/EDA**, **SQL analítico**, **dashboards en Tableau** y **pruebas A/B**.
 - Comunicación clara y orientación a impacto (qué cambia con el insight).
@@ -39,7 +39,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 
 ---
 
-## 📊 Proyectos
+## Proyectos
 
 <div class="project-card">
   <h3>Análisis SQL de Base de Datos Editorial <span class="badge">SQL · Pandas</span></h3>
@@ -120,6 +120,11 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
   </ul>
   <p><a href="https://github.com/DANTEDUPEYRON21/proyecto-showz-analisis-visitas" target="_blank">🔗 GitHub</a></p>
 </div>
+
+---
+
+## 🏅 Certificados
+- Bootcamp **TripleTen — Data Analyst (2025)** — [Ver credencial](https://drive.google.com/file/d/1tNbLq3cDzMmwHdvo2htrXdBxGwbiIraU/view?usp=drive_link)
 
 ---
 
