@@ -21,7 +21,7 @@ Desde niño me fascinaban las computadoras. Pasé horas frente a mi primera PC d
 
 Esa experiencia me dio algo invaluable: disciplina, resiliencia, la capacidad de entender a las personas y un inglés profesional, desarrollado hablando todos los días con personas nativas en contextos reales y exigentes.
 
-Hoy estoy de regreso al mundo Tech, con más motivación que nunca. A través del bootcamp de **TripleTen** me formé como Analista de Datos, creando proyectos de principio a fin con **Python, SQL y Tableau**: desde modelos de predicción de churn, hasta dashboards interactivos y flujos de automatización con n8n.
+Hoy estoy de regreso al mundo Tech, con más motivación que nunca. A través de estudios me formé como Analista de Datos, creando proyectos de principio a fin con **Python, SQL y Tableau**: desde modelos de predicción de churn, hasta dashboards interactivos y flujos de automatización con n8n.
 
 Lo que me mueve es ver cómo los datos pueden predecir el futuro o abrirte los ojos con insights que antes no eran visibles. Mi objetivo es aportar valor real: mejorar la experiencia de un cliente, optimizar procesos internos o encontrar oportunidades de crecimiento que estaban escondidas en los números.
 
