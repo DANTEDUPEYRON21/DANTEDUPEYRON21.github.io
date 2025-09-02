@@ -1,3 +1,10 @@
+<!-- ===== Banner inicial ===== -->
+<p align="center">
+  <img src="assets/banner.png" alt="Dante Dupeyron · Data Analyst" style="width:90%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,.15);">
+</p>
+
+---
+
 <!-- Estilos visuales -->
 <style>
   h2, h3 { color:#0A66C2; }
@@ -42,6 +49,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 ## Proyectos
 
 <div class="project-card">
+  <img src="assets/1.png" alt="Análisis SQL de Base de Datos Editorial" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Análisis SQL de Base de Datos Editorial <span class="badge">SQL · Pandas</span></h3>
   <ul>
     <li><strong>Problema:</strong> Identificar libros mejor valorados y autores más populares.</li>
@@ -52,6 +60,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/2.png" alt="Dashboard de Tendencias de Videos en YouTube" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Dashboard de Ventas de Videojuegos (Tableau) <span class="badge">Tableau · SQL</span></h3>
   <ul>
     <li><strong>Problema:</strong> Entender tendencias por región, género y año para decisiones de marketing.</li>
@@ -62,6 +71,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/3.png" alt="Evaluación A/B para Recomendador en E-commerce (código)" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Evaluación A/B para Recomendador en E-commerce <span class="badge">A/B Test · Python</span></h3>
   <ul>
     <li><strong>Problema:</strong> Medir el impacto del nuevo sistema de recomendaciones sobre la conversión.</li>
@@ -72,6 +82,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/4.png" alt="Priorización de Hipótesis y Test A/B (gráfico de líneas)" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Priorización de Hipótesis y Test A/B (SP-10) <span class="badge">ICE/RICE · A/B</span></h3>
   <ul>
     <li><strong>Problema:</strong> Focalizar esfuerzos de crecimiento con mayor impacto.</li>
@@ -82,6 +93,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/5.png" alt="Análisis de Servicios de Taxi y Negocios — Chicago" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Análisis de Servicios de Taxi y Negocios — Chicago (SP-8) <span class="badge">EDA · Python</span></h3>
   <ul>
     <li><strong>Problema:</strong> Entender relación entre dinámica de taxis y actividad comercial.</li>
@@ -92,6 +104,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/6.png" alt="Embudo de conversión de usuarios en app de comida" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Análisis del Comportamiento de Usuarios en App de Comida <span class="badge">Producto · Embudos</span></h3>
   <ul>
     <li><strong>Problema:</strong> Mapear embudo y detectar fricciones en UX.</li>
@@ -102,6 +115,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/7.png" alt="Predicción de churn — distribuciones y variables clave" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Predicción de Cancelación (Churn) — Gimnasios <span class="badge">ML · scikit-learn</span></h3>
   <ul>
     <li><strong>Problema:</strong> Anticipar cancelación de clientes para accionar retención.</li>
@@ -112,6 +126,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 </div>
 
 <div class="project-card">
+  <img src="assets/8.png" alt="Análisis de marketing para Showz — cohortes/retención" style="width:100%; border-radius:8px; margin-bottom:8px;">
   <h3>Análisis de Marketing para Showz <span class="badge">Marketing · Atribución</span></h3>
   <ul>
     <li><strong>Problema:</strong> Analizar tráfico y comportamiento de usuarios para optimizar adquisición.</li>
