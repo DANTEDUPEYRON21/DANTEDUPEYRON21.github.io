@@ -139,7 +139,7 @@ Busco un rol remoto donde pueda unir mi experiencia previa en hospitalidad y lid
 ---
 
 ## 🏅 Certificados
-- Bootcamp **TripleTen — Data Analyst (2025)** — [Ver credencial](https://drive.google.com/file/d/1tNbLq3cDzMmwHdvo2htrXdBxGwbiIraU/view?usp=drive_link)
+- **TripleTen — Data Analyst (2025)** — [Ver credencial](https://drive.google.com/file/d/1tNbLq3cDzMmwHdvo2htrXdBxGwbiIraU/view?usp=drive_link)
 
 ---
 
